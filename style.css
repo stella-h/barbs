@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: cornsilk;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  color: black;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
