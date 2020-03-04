@@ -10,10 +10,10 @@ a {
 
 .container {
   color: black;
-  height: 600px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   text-align: center;
+  margin-top: 40vh;
 }
