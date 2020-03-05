@@ -10,7 +10,7 @@ body {
 
 @media screen and (min-width: 700px) {
   img {
-      height: 105vh;
+      height: 100vh;
   }
 }
 
